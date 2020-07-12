@@ -1,8 +1,5 @@
-pangwa (Guang Han)
-============
-
 ### Hello 👋
-
+Some bio stuff should be here...
 <!---
 - 🔭 I’m currently working at Namek.Inc as a software arch
 - 🌱 I’m currently learning ...
